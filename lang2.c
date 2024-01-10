@@ -173,7 +173,7 @@ int main(int argc, char* argv[]) {
     FILE* data = fopen(argv[1], "r");
     
     if (data == NULL) {
-    	printf("Mistah White, I Can't open this file, bitch~.\n");
+    	printf("Mistah White, I Can't open this file, b#$%^~.\n");
         return -1;
     }
     
